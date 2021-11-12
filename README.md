@@ -14,7 +14,9 @@
 ![Undistorted](visual//undistorted.jpg)
 
 - Disparity 
+
 ![Disparity](visual//disparity.jpg)
 
 - After Disparity WLS Filter
+
 ![FilteredDisp](visual/disparity_filtered.jpg)
